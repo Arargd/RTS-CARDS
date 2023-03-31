@@ -50,3 +50,4 @@
 | Grave Robber | 1x Mage <br> 1x Rogue |
 | Assassin | 1x Sword <br> 1x Rogue |
 | Necromancer | 1x Sword <br> 1x Wizard |
+| Over Worker | 2x Hard Worker |
