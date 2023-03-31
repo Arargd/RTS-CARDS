@@ -43,7 +43,7 @@
 | Basher | 1x Shield <br> 1x Knight |
 | Smith | 1x Archer <br> 1x Leader |
 | Vampire | 1x Mage <br> 1x Leader |
-| Guardian | 1x Shield <br> 1x Vampire |
+| Guardian | 1x Shield <br> 1x Leader |
 | Warlord | 1x Sword <br> 1x Leader |
 | Werewolf | 1x Mage <br> 1x Ranger |
 | Poison Knives | 1x Archer <br> 1x Rogue |
