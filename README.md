@@ -40,7 +40,7 @@
 | Blademaster | 1x Sword <br> 1x Katana | 
 | Smeller | 1x Archer <br> 1x Knight |
 | Very Tank | 1x Shield <br> 1x Knight |
-| Basher | 1x Shield <br> 1x Knight |
+| Basher | 1x Sword <br> 1x Knight |
 | Smith | 1x Archer <br> 1x Leader |
 | Vampire | 1x Mage <br> 1x Leader |
 | Guardian | 1x Shield <br> 1x Leader |
